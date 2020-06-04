@@ -35,7 +35,7 @@
        <font style="margin-left:2%; font-size:50px;">현 근무지</font>
       </div>
       <div id="wb">
-      <font style="font-size:50px;margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp이디야커피 백운역점</font>
+      <font style="font-size:45px;margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp이디야커피 백운역점</font>
       <ul id="rt">
         <li id="rt">
         <div class='toggleBG'>
@@ -45,7 +45,7 @@
       </ul>
       </div>
       <div id="wb">
-      <font style="font-size:50px; margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp한신포차 부평역점</font>
+      <font style="font-size:45px; margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp한신포차 부평역점</font>
       <ul id="rt">
         <li id="rt">
         <div class='toggleBG'>
@@ -60,10 +60,10 @@
    <span>
      <ul style="diplay:inline-block; width:100%; height:100%;">
       <li id="icon" id="home_gray_btn"><button class="btn_bottom"><a href="../user_jsp/usermain.jsp"><img src="<%=request.getContextPath() %>/resources/icon/home_gray.png" width="90px;" height="90px;"></a></button></li>           
-      <li id="icon" id="money_gray_btn"><button class="btn_bottom" ><a href="../user_jsp/money.jsp"><img src="<%=request.getContextPath() %>/resources/icon/money.png" width="90px;" height="90px;"></a></button></li>
+      <li id="icon" id="money_gray_btn"><button class="btn_bottom" ><a href="../user_jsp/money.jsp"><img src="<%=request.getContextPath() %>/resources/icon/money_gray.png" width="90px;" height="90px;"></a></button></li>
       <li id="icon" id="camera_gray_btn"><button class="btn_bottom" ><a href="#"><img src="<%=request.getContextPath() %>/resources/icon/camera_gray.png" width="90px;" height="90px;"></a></button></li>
       <li id="icon" id="message_gray_btn"><button class="btn_bottom"><img src="<%=request.getContextPath() %>/resources/icon/message_gray.png" id="msg1" width="90px;" height="90px;"></a></button></li>
-      <li id="icon" id="settings_gray_btn"><button class="btn_bottom" ><a href="../user_jsp/mypage.jsp"><img src="<%=request.getContextPath() %>/resources/icon/settings_gray.png" width="90px;" height="90px;"></a></button></li>
+      <li id="icon" id="settings_gray_btn"><button class="btn_bottom" ><a href="../user_jsp/mypage.jsp"><img src="<%=request.getContextPath() %>/resources/icon/settings.png" width="90px;" height="90px;"></a></button></li>
      </ul>
      </span>
 	</footer>

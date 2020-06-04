@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <title>채팅방 메인</title>
     <meta name="viweport" contueent="width=device-width, user-scalable=no", initial-scale="1.0">
-    <link rel="stylesheet" href="<%= request.getContextPath() %>/resources/User_css/user_chat.css">
+    <link rel="stylesheet" href="<%= request.getContextPath() %>/resources/User_css/user_chat.css?ss">
     <link rel="stylesheet" href="<%= request.getContextPath() %>/resources/User_css/user_set_page.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
@@ -53,7 +53,7 @@
 
 <div id="London" class="tabcontent">
   <div id="job-result">
-  <div><p style="font-size: 35px; ">업체명</p> </div>
+  <div><p style="font-size: 50px; margin-top: 3%; ">업체명</p> </div>
 		<table>
 			<tr>
   				<td id="job-address">
@@ -82,7 +82,7 @@
 			<tr>
   				<td id="job-address">
 					
-  					<a href="#"><div id="test5" class="col_s13"><img class="user_chat" id="chat2_user" src="<%= request.getContextPath() %>/resources/icon/user.png" hspace="7px"><div class="brand_name">한신포 부평역점</div> </div></a>
+  					<a href="#"><div id="test5" class="col_s13"><img class="user_chat" id="chat2_user" src="<%= request.getContextPath() %>/resources/icon/user.png" hspace="7px"><div class="brand_name">한신포차 부평역점</div> </div></a>
   					<div class="chat">[공지]마감 대청소 깨끗이 하셔야합니다.</div>
 				</td>
 			</tr>

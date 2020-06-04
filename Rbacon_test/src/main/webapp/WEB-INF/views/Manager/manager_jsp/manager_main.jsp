@@ -449,12 +449,12 @@ input:focus {
 				<li id="icon" id="home_gray_btn"><button class="btn_bottom"
 						id="btn_home">
 						<a href="../user_jsp/usermain.jsp"><img
-							src="<%=request.getContextPath() %>/resources/icon/home_gray.png" width="70px;" height="70px;"></a>
+							src="<%=request.getContextPath() %>/resources/icon/home_gray.png" width="90px;" height="90px;"></a>
 					</button></li>
 				<li id="icon" id="money_gray_btn"><button class="btn_bottom"
 						id="btn_money">
 						<a href="../user_jsp/money.jsp"><img src="<%=request.getContextPath() %>/resources/icon/money.png"
-							width="70px;" height="70px;"></a>
+							width="90px;" height="90px;"></a>
 					</button></li>
 				<li id="icon" id="camera_gray_btn"><button class="btn_bottom"
 						id="btn_camera">

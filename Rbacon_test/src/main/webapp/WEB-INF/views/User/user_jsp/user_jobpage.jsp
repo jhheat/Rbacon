@@ -133,7 +133,7 @@
 			<tr>
   				<td id="job-address">
   				<a class="modal-trigger" href="#modal2" style="color:black;">
-				<img id="close" src="../../icon/close_gray.png" width="40px;" height="40px;"></a>
+				<img id="close" src="<%=request.getContextPath() %>/resources/icon/close_gray.png" width="40px;" height="40px;"></a>
 					<font class="sub-title">이디아커피 백운역점</font><br><br><br><br>
 					<font id="wait">승인 대기중</font><br><br><br><br>
 					<hr color="#7f7f7f" size="7px;" width="97%;" style="margin-left:0%;">

@@ -14,7 +14,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     
-	<link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_money.css">
+	<link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_money.css?ss">
 	<link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_set_page.css">
 	
   
@@ -27,7 +27,7 @@
       <a href="#" class="brand-logo center">급여정산표</a>
       </div>
       <ul id="nav-mobile" class="right" style="background:none;">
-      <li><a class="modal-trigger" href="#modal1" id="workch" style="font-size:35px;">근무지 선택</a></li>
+      <li><a class="modal-trigger" href="#modal1" id="Wchoice" style="font-size:40px;">근무지 선택</a></li>
       </ul>
       
     </div>
@@ -40,12 +40,12 @@
 	<hr style="border:solid 3px #0090ff;">
 	</div>
 	<div class="day">
-	  <ul style="display : inline; ">
-		<li style="display : inline; margin-right:2%;"> <a href="#"><img src="<%=request.getContextPath() %>/resources/icon/left_back.png" width="30px;"height="30px;"></a></li>
+	  <ul style="display : inline; margin-left:7%; ">
+		<li style="display : inline; margin-right:2%;"> <a href="#"><img src="<%=request.getContextPath() %>/resources/icon/left_back.png" width="40px;"height="40px;"></a></li>
 		<li style="display : inline; font-size: 58px; color: black;"><a href="#" style="color: black;">2019.12.01 - 2019.12.16</a></li>
-		<li style="display : inline; margin-left:2%;"><a href="#"> <img src="<%=request.getContextPath() %>/resources/icon/right_back.png" width="30px;"height="30px;"></a></li>
+		<li style="display : inline; margin-left:2%;"><a href="#"> <img src="<%=request.getContextPath() %>/resources/icon/right_back.png" width="40px;"height="40px;"></a></li>
  	 	<li style="display : inline; float: right; margin-right: 35px;">
- 	 	<a class="modal-trigger" href="#modal2" ><img src="<%=request.getContextPath() %>/resources/icon/money_cal.png" width="60px;"height="60px;"></a></li>	  
+ 	 	<a class="modal-trigger" href="#modal2" ><img src="<%=request.getContextPath() %>/resources/icon/money_cal.png" width="65px;"height="65px;"></a></li>	  
 	  </ul>
 	</div>
 	</div>	

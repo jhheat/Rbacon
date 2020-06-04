@@ -64,18 +64,7 @@ html, body{
   color:#000000;
   margin:20px 40px;
 }
-.right:before {
-  content: "";
-  width: 0px;
-  height: 0px;
-  position: absolute;
-  border-left: 15px solid transparent;
-  border-right: 15px solid #EEEFEE;
-  border-top: 15px solid #EEEFEE;
-  border-bottom: 15px solid transparent;
-  left: -16px;
-  top: 10px;
-}
+
 #choice{
 	text-align : center;
 	width:100%;
@@ -193,4 +182,7 @@ html, body{
 	width: 40%;
 	height: 15%;
 	margin-right: 5%
+}
+#Wchoice{
+	margin-top:13%;
 }

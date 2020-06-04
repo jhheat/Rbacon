@@ -5,6 +5,7 @@ html, body{
 #Ttitle{
 	margin-top:2%; 
 	margin-left:5%;
+	margin-bottom:1%;
 }
 #wb{
 	height:5%!important;
@@ -38,6 +39,7 @@ html, body{
 	background-color:#0090ff;
 	color:white;
 	margin-left:10%;
+	border:none;
 }
 #choice{
 	text-align : center;

@@ -14,8 +14,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 	
-	<link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_pwdenter.css?afdd">
-	<link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_set_page.css?sds">
+	<link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_pwdenter.css">
+	<link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_set_page.css">
   
   </head>
   <body>
@@ -36,12 +36,12 @@
   		</div>
   		<div id="Mcontent">
   		<div id="N_box" style="margin-top:3%;">
-  		<input id="pt" type="text" value="&nbsp&nbsp 비밀번호(6~16자 영문, 숫자, 특수문자)">
+  		<input id="pt" type="text" placeholder="비밀번호(6~16자 영문, 숫자, 특수문자)" value="">
   		</div>
   		<div id="N_box" style="margin-top:3%;">
-  		<input id="pt" type="text" value="&nbsp&nbsp 비밀번호 확인(6~16자 영문, 숫자, 특수문자)">
+  		<input id="pt" type="text"  placeholder="비밀번호 확인(6~16자 영문, 숫자, 특수문자)" value="">
   		</div>
-  		 <button id="ok"><a class="modal-trigger" href="#modal1" style="font-size:35px; color:white;">비밀번호 찾기</a></button>
+  		 <button id="ok"><a class="modal-trigger" href="#modal1" style="font-size:50px; color:white;">확인</a></button>
 
   		</div>
    	 

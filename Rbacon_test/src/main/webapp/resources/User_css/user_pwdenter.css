@@ -23,6 +23,7 @@ html, body{
 	color:gray;
 	height:100%!important;
 	font-size:40px;
+	margin-left:2%;
 }
 #ok{
 	width:90%;
@@ -32,6 +33,7 @@ html, body{
 	color:white;
 	margin-left:5%;
 	margin-top:3%;
+	border:none;
 }
 #modal1{
 	padding: 0%;

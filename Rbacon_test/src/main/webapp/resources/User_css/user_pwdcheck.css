@@ -1,7 +1,7 @@
 
 html, body{
 
-  background-color : #ffffff;
+  background-color : #f7f7f7;
 }
 #wb{
 	height:5%!important;
@@ -26,4 +26,5 @@ html, body{
 	background-color:#0090ff;
 	color:white;
 	margin-left:10%;
+	border:none;
 }

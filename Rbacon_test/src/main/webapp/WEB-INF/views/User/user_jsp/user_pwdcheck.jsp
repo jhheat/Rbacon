@@ -47,8 +47,8 @@
       <div id="wb">
        <input id="pt" type="text" value="&nbsp&nbsp비밀번호를 입력해주세요"><br>
        
-      </div><br><br>
-      <button id="ok"> 아이디 찾기 </button>
+      </div><br><br><br><br>
+      <button id="ok"> 확인 </button>
     
   </body>
 </html>

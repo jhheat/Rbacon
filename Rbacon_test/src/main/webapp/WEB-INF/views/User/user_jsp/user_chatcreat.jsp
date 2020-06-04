@@ -20,7 +20,7 @@
       <div>
     <div class="top-bar">
       <a href="#" class="brand-logo center">대화상대 선택</a>
-      <input id="select_friend" type="submit" value="확인" style="font-size: 45px; float: right;">
+      <input id="select_friend" type="submit" value="확인" style="font-size: 40px; float: right;">
       </div>
       <ul id="nav-mobile" class="left">
         <li><a id="left_btn" class="material-icons" href="index.html">chevron_left</a></li>

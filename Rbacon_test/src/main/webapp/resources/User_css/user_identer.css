@@ -23,7 +23,8 @@ html, body{
 #ok{
 	width:40%;
 	height:5%;
-	font-size:35px;
+	font-size:50px;
 	background-color:#0090ff;
 	color:white;
+	border:none;
 }

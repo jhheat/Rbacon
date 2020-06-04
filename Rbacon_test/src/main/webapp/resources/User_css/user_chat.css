@@ -29,7 +29,9 @@ html, body{
     margin-top: 35px;
     margin-left: 20px;
 }
-
+h3{
+	font-size: 54px !important;
+}
 #message_img{
 	width: 90px;
     height: 80px;
@@ -44,7 +46,7 @@ html, body{
 .dropdown-menu{
 	    top: 108% !important;
     left: 9% !important;
-	width: 400px !important;
+	width: 500px !important;
 	border-radius: 8% !important;
 }
 /* Style the buttons that are used to open the tab content */
@@ -81,6 +83,7 @@ button.tablinks{
     float: inherit;
     margin-top: 30px;
     margin-left: 30px;
+    color: black;
 }
 .chat{
 	font-size: 45px;

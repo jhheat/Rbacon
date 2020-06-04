@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <title>채팅방 메인</title>
     <meta name="viweport" contueent="width=device-width, user-scalable=no", initial-scale="1.0">
-    <link rel="stylesheet" href="<%= request.getContextPath() %>/resources/User_css/user_chat.css">
+    <link rel="stylesheet" href="<%= request.getContextPath() %>/resources/User_css/user_chat.css?sss">
     <link rel="stylesheet" href="<%= request.getContextPath() %>/resources/User_css/user_set_page.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">

@@ -14,7 +14,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
-    <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_idsearch.css?after">
+    <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_idsearch.css">
     <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_set_page.css">
   
   </head>
@@ -40,25 +40,25 @@
  	 <div class="tab_box_container">
    	 	<div class="tab_box1 tab_box on">
    	 	<div id="N_box">
-  		<input id="pt" type="text" value="&nbsp&nbsp 이름 입력">
+  		<input id="pt" type="text" placeholder="이름 입력" value="">
   		</div>
   		<div id="E_box" style="margin-left:5%; margin-top:3%;">
-  		<input id="pt" type="text" value="&nbsp&nbsp 이메일">
+  		<input id="pt" type="text" placeholder="이메일" value="">
   		</div>
   		<h2 style="display:inline-block;">&nbsp @ &nbsp </h2>
   		<div id="E_box" style="margin-top:3%;">
-  		<input id="pt"  type="text" value="&nbsp&nbsp 직접입력">
+  		<input id="pt"  type="text" placeholder="직접입력" value="">
   		</div>
    	 	 <button id="ok"> 아이디 찾기 </button>
    	 	</div>
    	 	
    	 	<div class="tab_box2 tab_box">
   			<div id="N_box">
-  		<input id="pt" type="text" value="&nbsp&nbsp 이름 입력">
+  		<input id="pt" type="text" placeholder="이름 입력" value="">
   		</div>
   		
   		<select name="number" id="E_box" 
-  		style="margin-left:5%!important; width:25%; padding-left:3%; font-size:50px; ">
+  		style="margin-left:5%!important; width:25%; padding-left:3%; font-size:45px; margin-top:3%; ">
 			<option value="010">010</option>
 			<option value="011">011</option>
 			<option value="016">016</option>
@@ -67,7 +67,7 @@
 		</select>
   		<h2 style="display:inline-block;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </h2>
   		<div id="E_box" style="width:55%;">
-  		<input id="pt" style="text-align:center;" type="text" value="예:12341234('-'없이 입력)">
+  		<input id="pt" style="text-align:center;" type="text" placeholder="12341234('-'없이 입력)" value="">
   		</div >
    	 	 <button id="ok">아이디 찾기  </button>
    	 	</div>

@@ -15,7 +15,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 
 	<link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_msg.css">
-	<link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_set_page.css?Ssss">
+	<link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_set_page.css">
   
   </head>
   <body>
@@ -35,7 +35,7 @@
        <font style="margin-left:2%; font-size:50px;">전체차단</font>
       </div>
       <div id="wb">
-      <font style="margin:5px;display:inline-block;width:60%; font-size:50px; ">&nbsp&nbsp근무지 메세지 전체 차단 </font>
+      <font style="margin-bottom:1.5%;display:inline-block;width:60%; font-size:45px; ">&nbsp&nbsp근무지 메세지 전체 차단 </font>
       <ul id="rt">
         <li id="rt">
         <div class='toggleBG'>
@@ -48,7 +48,7 @@
        <font style=" margin-left:2%; font-size:50px;">매장별 차단 관리</font>
       </div>
        <div id="wb">
-      <font style="font-size:50px; margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp현 근무지</font>
+      <font style="font-size:45px; margin-bottom:2.5%;display:inline-block;width:50%; ">&nbsp&nbsp현 근무지</font>
       <ul id="rt">
         <li id="rt">
 			 <img src="<%=request.getContextPath() %>/resources/icon/right_back.png" width="30px;"height="30px;">
@@ -56,7 +56,7 @@
       </ul>
       </div>
       <div id="wb">
-      <font style=" font-size:50px; margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp전 근무지</font>
+      <font style=" font-size:45px; margin-bottom:1.5%;display:inline-block;width:50%; ">&nbsp&nbsp전 근무지</font>
       <ul id="rt">
         <li id="rt">
 			 <img src="<%=request.getContextPath() %>/resources/icon/right_back.png" width="30px;"height="30px;">

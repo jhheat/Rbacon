@@ -267,7 +267,7 @@ function openCity(evt, cityName) {
 	
 	
 	
-	<footer class="bottom">
+	<footer class="bottom" style="display:block;">
    <span>
      <ul style="display:inline-block; width:100%; height:100%;">
       <li id="icon" id="home_gray_btn"><button class="btn_bottom" id="btn_home" onclick="changeView(0)"><img src="<%=request.getContextPath() %>/resources/icon/home_gray.png" width="90px;" height="90px;"></a></button></li>

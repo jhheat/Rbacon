@@ -121,7 +121,7 @@
 			<tr>
   				<td id="job-address"  style="border-bottom:2px solid #afafaf;">
 				<a class="modal-trigger" href="#modal1" style="color:black;">
-					<div id="right_back"><img id ="right" src="<%=request.getContextPath() %>/resources/icon/right_back.png" width="40px;" height="40px;" style="display:inline-block;">
+					<div id="right_back"><img id ="right" src="<%=request.getContextPath() %>/resources/icon/right_back.png" width="40px;" height="40px;" style="display:inline-block; margin-top:2%;">
 					</div><font id="set-sub">
 					<div id="notice"><img src="<%=request.getContextPath() %>/resources/icon/user_gray.png" width="70px;" height="70px;"></div>
 					회원 정보수정</font>
@@ -131,7 +131,7 @@
 			<tr>
   				<td id="job-address"  style="border-bottom:2px solid #afafaf;">
 				<a class="modal-trigger" href="#modal1" style="color:black;">
-					<div id="right_back"><img id ="right" src="<%=request.getContextPath() %>/resources/icon/right_back.png" width="40px;" height="40px;" style="display:inline-block;">
+					<div id="right_back"><img id ="right" src="<%=request.getContextPath() %>/resources/icon/right_back.png" width="40px;" height="40px;" style="display:inline-block; margin-top:2%;">
 					</div><font id="set-sub">
 					<div id="notice"><img src="../../icon/notice.png" width="70px;" height="70px;"></div>
 					고객센터</font>
@@ -176,7 +176,7 @@
 	});
 	</script>
 	
-   <footer class="bottom">
+   <footer class="bottom" style="display:block;">
    <span>
      <ul style="display:inline-block; width:100%; height:100%;">
       <li id="icon" id="home_gray_btn"><button class="btn_bottom" id="btn_home" onclick="changeView(0)"><img src="<%=request.getContextPath() %>/resources/icon/home_gray.png" width="90px;" height="90px;"></a></button></li>

@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 
     <meta name="viweport" content="width=device-width, user-scalable=no", initial-scale="1.0">
-    <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/Manager_css/manager_schedule.css?ddd">
+    <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/Manager_css/manager_schedule.css?ddddd">
     <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/Manager_css/manager_set_page.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">

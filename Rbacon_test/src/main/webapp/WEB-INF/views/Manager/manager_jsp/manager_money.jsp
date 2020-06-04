@@ -179,11 +179,11 @@
  <footer class="bottom">
    <span>
      <ul style="diplay:inline-block; width:100%; height:100%;">
-      <li id="icon" id="home_gray_btn"><button class="btn_bottom"><a href="../user_jsp/usermain.jsp"><img src="<%=request.getContextPath() %>/resources/icon/home_gray.png" width="70px;" height="70px;"></a></button></li>           
-      <li id="icon" id="money_gray_btn"><button class="btn_bottom" ><a href="../user_jsp/money.jsp"><img src="<%=request.getContextPath() %>/resources/icon/money.png" width="70px;" height="70px;"></a></button></li>
-      <li id="icon" id="camera_gray_btn"><button class="btn_bottom" ><a href="#"><img src="<%=request.getContextPath() %>/resources/icon/event_gray.png" width="70px;" height="70px;"></a></button></li>
-      <li id="icon" id="message_gray_btn"><button class="btn_bottom"><img src="<%=request.getContextPath() %>/resources/icon/message_gray.png" id="msg1" width="70px;" height="70px;"></a></button></li>
-      <li id="icon" id="settings_gray_btn"><button class="btn_bottom" ><a href="../user_jsp/mypage.jsp"><img src="<%=request.getContextPath() %>/resources/icon/settings_gray.png" width="70px;" height="70px;"></a></button></li>
+      <li id="icon" id="home_gray_btn"><button class="btn_bottom"><a href="../user_jsp/usermain.jsp"><img src="<%=request.getContextPath() %>/resources/icon/home_gray.png" width="90px;" height="90px;"></a></button></li>           
+      <li id="icon" id="money_gray_btn"><button class="btn_bottom" ><a href="../user_jsp/money.jsp"><img src="<%=request.getContextPath() %>/resources/icon/money.png" width="90px;" height="90px;"></a></button></li>
+      <li id="icon" id="camera_gray_btn"><button class="btn_bottom" ><a href="#"><img src="<%=request.getContextPath() %>/resources/icon/event_gray.png" width="90px;" height="90px;"></a></button></li>
+      <li id="icon" id="message_gray_btn"><button class="btn_bottom"><img src="<%=request.getContextPath() %>/resources/icon/message_gray.png" id="msg1" width="90px;" height="90px;"></a></button></li>
+      <li id="icon" id="settings_gray_btn"><button class="btn_bottom" ><a href="../user_jsp/mypage.jsp"><img src="<%=request.getContextPath() %>/resources/icon/settings_gray.png" width="90px;" height="90px;"></a></button></li>
      </ul>
      </span>
 	</footer>

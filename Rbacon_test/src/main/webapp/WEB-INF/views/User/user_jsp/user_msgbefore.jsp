@@ -36,7 +36,7 @@
        <font style="margin-left:2%; font-size:50px;">전 근무지</font>
       </div>
       <div id="wb">
-      <font style=" font-size:50px; margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp하남돼지집 주안점 </font>
+      <font style=" font-size:45px; margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp하남돼지집 주안점 </font>
       <ul id="rt">
         <li id="rt">
         <div class='toggleBG'>
@@ -46,7 +46,7 @@
       </ul>
       </div>
       <div id="wb">
-      <font style="font-size: 50px;margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp한신포차 간석점 </font>
+      <font style="font-size: 45px;margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp한신포차 간석점 </font>
       <ul id="rt">
         <li id="rt">
         <div class='toggleBG'>
@@ -56,7 +56,7 @@
       </ul>
       </div>
       <div id="wb">
-      <font style=" font-size:50px; margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp준코 부평점</font>
+      <font style=" font-size:45px; margin:5px;display:inline-block;width:50%; ">&nbsp&nbsp준코 부평점</font>
       <ul id="rt">
         <li id="rt">
         <div class='toggleBG'>

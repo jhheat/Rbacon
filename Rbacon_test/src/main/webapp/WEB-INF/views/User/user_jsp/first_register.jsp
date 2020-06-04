@@ -6,8 +6,8 @@
     <meta charset="UTF-8">
     <title>첫 화면</title>
     <meta name="viweport" content="width=device-width, user-scalable=no", initial-scale="1.0">
-    <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/first_register.css">
-    <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_set_page.css?dd">
+    <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/first_register.css??sss">
+    <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_set_page.css?dssd">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">	
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>

@@ -5,9 +5,10 @@ html, body{
   padding: 0%;
 	
 }
-.one{
-	
+#workch{
+	margin-top: 4%;
 }
+
 #wrap{
 	width: 100%;
 	height: 2000px;
@@ -23,7 +24,7 @@ html, body{
 	    width: 95%;
     margin-left: 3%;
     height: 200px;
-    margin-top: 163%;
+    margin-top: 160%;
 }
 #btn_register{
 	width: 100%;

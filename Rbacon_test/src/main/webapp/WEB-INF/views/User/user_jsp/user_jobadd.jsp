@@ -10,7 +10,7 @@
     <title></title>
     <meta name="viewport" content="width=device-width, user-scalable=no", initial-scale="1.0">
     <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_jobadd.css?ddd">
-    <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_set_page.css">
+    <link rel="stylesheet" href="<%=request.getContextPath() %>/resources/User_css/user_set_page.css?ss">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">

@@ -5,6 +5,7 @@ html, body{
   overflow: auto;
 background-color: #f7f7f7;
 }
+
 nav.top-nav{
   height: 7%;
   background-color: #0090ff;
@@ -43,6 +44,6 @@ a.brand-logo{
 }
 #workch{
 	float:right;
-	margin-top:3%;
+	margin-top:4%;
 	padding-right: 3%
 }

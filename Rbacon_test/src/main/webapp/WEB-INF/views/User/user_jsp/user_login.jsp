@@ -5,7 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viweport" content="width=device-width, user-scalable=no", initial-scale="1.0"> <!-- 반응형 웹에 사용되는 메타 태그 -->
-<link rel="stylesheet" href="<%= request.getContextPath() %>/resources/User_css/user_login.css?ssss">
+<link rel="stylesheet" href="<%= request.getContextPath() %>/resources/User_css/user_login.css?ss">
 <link rel="stylesheet" href="<%= request.getContextPath() %>/resources/User_css/user_set_page.css">
 
 <!-- 부트 스트랩 -->
@@ -25,7 +25,7 @@
 <body>
 <!-- 상단 부분 -->
 	<nav class="top-nav">
-      <a href="#" class="brand-logo center" style="font-size: 62px!important;">알바 콘</a>
+      <a href="#" class="brand-logo center" style="font-size: 62px!important;">알바콘</a>
      
     </nav>
 </div>
@@ -39,11 +39,11 @@
     <form action="auth.jsp" method="post">
         <div class="form-group">
            <!--  <label>아이디</label> -->
-            <input name="email" type="email" class="form-control" placeholder="아이디" style="font-size: 50px !important; padding-bottom: 20px;" />
+            <input name="email" type="email" class="form-control" placeholder="아이디" style="font-size: 50px !important; padding-bottom: 20px; margin: 0 4% 0 5%;" />
         </div>
         <div class="form-group">
             <!-- <label>비밀번호</label> -->
-            <input name="password" type="password" class="form-control" placeholder="비밀번호" style="font-size: 50px !important; padding-bottom: 20px;" />
+            <input name="password" type="password" class="form-control" placeholder="비밀번호" style="font-size: 50px !important;      margin: 0 4% 0 5%; padding-bottom: 20px;" />
         </div>
         <!-- 라디오 버튼 -->
 	<div class="custom-control custom-radio">
@@ -58,7 +58,7 @@
 	
 	<div id="find_inform">
 	<button class="find" id="find_id">아이디 찾기</button>
-	<button class="find" id="find_pwd">비밀번호 찾기</button>
+	<button class="find" id="find_pwd" style="margin: 0 2%;">비밀번호 찾기</button>
 	<button class="find" id="join"><a href="../user_jsp/join.jsp" style="color: black;">회원 가입</a></button>
 	</div>
 	<!-- 로그인 자바 스크립트 -->

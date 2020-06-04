@@ -42,7 +42,7 @@ div.form-group{
 .custom-control.custom-radio{
 	height: 100px;
     width: 97%;
-    margin-left: 24px;
+    margin-left: 5%;
     margin-top: 30px;
     padding: unset;
 }
@@ -71,5 +71,5 @@ label.custom-control-label{
 }
 
 #find_id{
-	    margin-left: 13%;
+	        margin-left: 9%;
 }

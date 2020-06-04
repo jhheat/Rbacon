@@ -1,0 +1,179 @@
+@charset "UTF-8";
+html, body{
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: #f7f7f7;
+}
+
+.btn_bottom{
+   margin:5%;
+   width: 10%;
+   height:100%;
+   border: none;
+   background-color: white;
+}
+
+#icon { 
+   display:inline-block;
+   margin-left:5.05%;
+   margin-right:5.05%;
+   margin-top:2.5%;
+}
+
+
+nav.top-nav{
+height: 7%;
+   background-color: #0090ff;
+}
+a.brand-logo{
+  padding-top: 4.5%!important;
+  font-size: 62px!important;
+  font-weight: 600;
+  width: 100%
+}
+#logout{
+	float: right;
+	padding-right: 5%;
+}
+#job-result{
+  width: 96%;
+  margin-left: 2%;
+  margin-top: 3%;
+  border: 2px solid #afafaf;
+  background: #ffffff;
+  color: #000000;
+}
+#job-address{
+	padding: 0px !important;
+	padding-left: 4% !important;
+	padding-top: 1% !important;
+}
+a.modal-trigger{
+	color: black;
+}
+#jobjob{
+	text-align: center;
+	width: 190px;
+	border-right: 1px solid #7f7f7f;
+	border-top: 1px solid #ffffff;
+	padding-right: 12px;
+	text-align: justfy;
+}
+h5#red{
+	color: #ffffff !important;
+}
+div#phone{
+	float: left;
+	padding-right: 20px;
+	padding-left: 30px;
+}
+div#address{
+	padding-top: 1pt;
+}
+#modal1{
+	width: 80%;
+	height: 20%;
+}
+#right_back{
+	padding-right: 3%;
+}
+img#right{
+	float: right;
+}
+#job-add{
+	width: 96%;
+	margin-left: 2%;
+	margin-top: 10px;
+    border: 2px solid #afafaf;
+	background: #ffffff;
+	color: #000000;
+	float: left;
+}
+#job-other{
+	width: 96%;
+	margin-left: 2%;
+	margin-top: 10px;
+    border: 2px solid #afafaf;
+	background: #ffffff;
+	color: #000000;
+	float: left;
+}
+#notice{
+	float: left;
+	padding-right: 3%;
+	margin-top: -4px; !important;
+}
+.bottom{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height:7%;
+  background: #ffffff;
+}
+
+#left_btn{
+  margin-left: -10%;
+  margin-top: 13%;
+  font-size: 120px!important;
+  line-height: 1!important;
+}
+
+
+#home_btn{
+  padding-left: 10%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: left;
+  width: 70%;
+  position: absolute;
+}
+#money_gray_btn{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 28%;
+	float: left;
+	position: absolute;
+}
+#camera_gray_btn{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 47%;
+	float: left;
+	position: absolute;
+}
+#message_gray_btn{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 65%;
+	float: left;
+	position: absolute;
+}
+#settings_gray_btn{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 83%;
+	float: left;
+	position: absolute;
+}
+
+font {
+	font-family: 나눔스퀘어_ac;
+	
+}
+
+.fontmaintitle {
+	font-size: 61px
+}
+
+.fontsubtitle {
+	font-size: 57px
+}
+
+.fontminititle {
+	font-size: 54px
+}
+
+.fonttext {
+	font-size: 50px
+}

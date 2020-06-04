@@ -1,0 +1,70 @@
+@charset "UTF-8";
+span#create{
+	font-size: 	35px;
+}
+div#make_worklist{
+	margin-top: 16px;
+	width: 100%;
+    height: 85px;
+    font-size: 35px;
+    display: inline-block;
+}
+span#create{
+    float: left;	
+    margin-left: 31px;
+    font-size: 50px;
+}
+#add{
+	border: none;
+	float: right;
+	height: 95px;
+    width: 165px;
+	background-color: #0090ff;
+	color: white;
+	border-radius: 26px;
+	margin-right:37px;
+	font-size: 50px;
+}
+/* 보내기 누를시 모달 */
+#setname_Modal{
+	display: block;
+    width: 737px;
+       height: 215px;
+}
+.modal-dialog{
+	    margin: unset !important;
+	    height: 100%;
+    width: 100%;
+    max-width: unset !important;
+}
+div.modal-content{
+	width: 100%;
+    height: 100%;
+    padding: unset !important;
+}
+.modal-body{
+	font-size: 38px;
+	padding: 6% !important;
+	text-align: center;
+}
+#worklist_name{
+	height: 75px;
+    width: 706px;
+    font-size: 35px;
+    margin-top: 13px;
+	border: 0.7px solid #0090ff;
+}
+div.modal-footer{
+	padding: unset !important;
+	height: 80px;
+    width: 100%;
+    text-align: right;
+}
+.btn{
+	height: 100% !important;
+    width: 50%;
+    margin: unset !important;
+    background: #0090ff !important;
+    border: none;
+        font-size: 30px !important;
+}

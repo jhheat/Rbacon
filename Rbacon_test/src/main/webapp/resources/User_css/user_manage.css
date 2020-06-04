@@ -1,0 +1,309 @@
+@charset "UTF-8";
+html, body{
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: #f7f7f7;
+}
+
+
+
+nav.top-nav{
+height: 7%;
+   background-color: #0090ff;
+}
+
+#left_btn{
+  margin-left: -10%;
+  margin-top: 13%;
+  font-size: 120px!important;
+  line-height: 1!important;
+}
+
+a.brand-logo{
+  padding-top: 4.5%!important;
+  font-size: 62px!important;
+  font-weight: 600;
+}
+
+
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border-bottom: 1px solid rgb(146, 146, 146);
+  width: 100%;
+ 
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: 0.3s;
+  width: 50%;
+  height: 150px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+.maker{
+  height: 100px;
+  width: 95%;
+  margin-left: 30px;
+  margin-top: 30px;
+  border: 2px solid #afafaf;
+  background: #ffffff;
+  position: relative;
+}
+
+#maker-add{
+  margin-top: 5px;
+  font-size: 30px;
+  width: 85%;
+  padding: 20px;
+  padding-left: 0px;
+  border: 0px;
+  outline: none;
+  float: left;
+  position: absolute;
+}
+
+#maker-search{
+  margin-left: 85%;
+  width: 15%;
+  height: 100%;
+  background: #ffffff;
+  float: right;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+}
+
+.user-list1{
+	margin-top: 30px;
+	border: 3px solid #e6e7eb;
+	position: relative;
+}
+
+a.modal-trigger{
+	color: black;
+}
+#close{
+	float: right;
+	margin: 3.5%;
+}
+#wait{
+	float: right;
+	margin-right: 4%;
+}
+#modal1{
+	width: 80%;
+	height: 20%;
+}
+.modalCenter{
+	top: 50% !important;
+	transform: translateY(-50%) !important;
+}
+.modal-content{
+	text-align: center !important;
+}
+.modal-footer{
+	position: fixed !important;
+	bottom: 0 !important;
+	width: 100% !important;
+	height: 30% !important;
+	background-color: #bfbfbf !important;
+	text-color: #ffffff !important;
+}
+.modal-action{
+	font-size: 30px !important;
+	color: #ffffff !important;
+}
+#reset{
+	text-align: center !important;
+	color: #ffffff;
+}
+#job-add{
+	width: 96%;
+	height: 140px;
+	margin-left: 2%;
+	border: 2px solid #0090ff;
+	background: #ffffff;
+	color: #000000;
+	float: left;
+}
+#register{
+	color: #0090ff;
+	text-align: center !important;
+	vertical-align: middle;	
+}
+
+#saram {
+	margin: 10px;	
+}
+
+.bottom{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height:7%;
+  background: #ffffff;
+}
+
+
+
+#icon { 
+   display:inline-block;
+   margin-left:5.05%;
+   margin-right:5.05%;
+   margin-top:2.5%;
+}
+
+
+.btn_bottom{
+   margin:5%;
+   width: 10%;
+   height:100%;
+   border: none;
+   background-color: white;
+}
+#workch{
+   float:right;
+   margin-top:4%;
+   padding-right: 2%
+}
+
+#back{  
+   margin-top:10%;
+   padding-left: -10%
+}
+
+
+#job-result{
+  width: 96%;
+  margin-left: 20px;
+  margin-top: 20px;
+  border: 1px solid #afafaf;
+  background: #ffffff;
+  color: #000000;
+}
+
+font {
+	font-family: 나눔스퀘어_ac;
+	
+}
+
+.fontmaintitle {
+	font-size: 61px
+}
+
+.fontsubtitle {
+	font-size: 57px
+}
+
+.fontminititle {
+	font-size: 54px
+}
+
+.fonttext {
+	font-size: 50px
+}
+
+#right_btn{
+  margin-left: -10%;
+  margin-top: 10%;
+  font-size: 100px !important;
+  line-height: 1 !important;
+}
+
+div{
+	font-family: 나눔스퀘어_ac;
+}
+
+#modal3{
+	padding: 0%;
+	width: 80%;
+	height: 31%;
+}
+
+.modalCenter{
+	padding:0% !important;
+	top: 50% !important;
+	transform: translateY(-50%) !important;
+}
+
+#choice{
+	text-align : center;
+	width:100%;
+	padding:0%;
+	margin:0;
+}
+
+#R_box{
+	display : inline-block;
+	text-align: center !important;
+	padding : 10px;
+	border:1px solid #afafaf; 
+	width: 40%;
+	height: 15%;
+	margin-left: 5%
+}
+
+#L_box{
+	display : inline-block;
+	text-align: center !important;
+	padding : 10px;
+	border:1px solid #afafaf; 
+	width: 40%;
+	height: 15%;
+	margin-right: 5%
+}
+
+
+#modal3{
+	padding: 0%;
+	width: 80%;
+	height: 31%;
+}
+
+#modal-footer{
+	position: fixed !important;
+	bottom: 0 !important;
+	width: 100% !important;
+	height: 20% !important;
+	background-color: #bfbfbf !important;
+	text-color: #ffffff !important;
+}
+
+#reset{
+	text-align: center !important;
+	color: #ffffff;
+}
+
+#modal2{
+	padding: 0%;
+	width: 80%;
+	height: 31%;
+}
+
+.modalCenter{
+	padding:0% !important;
+	top: 50% !important;
+	transform: translateY(-50%) !important;
+}
+.modal-content{ 
+	margin-top: 0%;
+	padding:0% !important;
+}

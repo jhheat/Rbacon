@@ -1,0 +1,81 @@
+@charset "EUC-KR";
+html, body{
+
+  background-color:#F0F1F5;
+
+}
+#content{
+	width:96%;
+	height: 35%;
+	background-color:#ffffff;
+	margin-left:2%;
+	margin-top:2%;
+}
+#left{
+	margin-left:5%;
+}
+#circle1 {
+  display:inline-block;
+  position : relative;
+  margin-left:5%;
+  background-color:#0090FF;
+  width:30px;
+  height:30px;
+  border-radius:50%;
+ 
+}
+#Ctext{
+	font-size:40px;
+	display:inline-block;
+	margin-left:5%;
+	margin-bottom:10%;
+}
+#base{
+	width:96%;
+	height: 10%;
+	background-color:#ffffff;
+	margin-left:2%;
+	margin-top:2%;
+	padding-top:5%;
+	padding-left:8%;
+}
+#Btext{
+	font-size:50px;
+}
+
+#long{
+	width:96%;
+	height: 10%;
+	background-color:#ffffff;
+	margin-left:2%;
+	margin-top:2%;
+		padding-top:5%;
+	padding-left:8%;
+}
+#night{
+	width:96%;
+	height: 10%;
+	background-color:#ffffff;
+	margin-left:2%;
+	margin-top:2%;
+		padding-top:5%;
+	padding-left:8%;
+}
+#week{
+	width:96%;
+	height: 10%;
+	background-color:#ffffff;
+	margin-left:2%;
+	margin-top:2%;
+		padding-top:5%;
+	padding-left:8%;
+}
+#etc{
+	width:96%;
+	height: 10%;
+	background-color:#ffffff;
+	margin-left:2%;
+	margin-top:2%;
+		padding-top:5%;
+	padding-left:8%;
+}

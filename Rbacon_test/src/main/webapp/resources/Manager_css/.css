@@ -1,0 +1,188 @@
+@charset "UTF-8";
+html, body{
+  width: 100%;
+  height: 100%;
+  background-color: #f7f7f7;
+}
+.one{
+  height: 100px;
+  background-color: #ffffff;
+}
+nav.top-nav{
+  height: 100px;
+  background-color: #0090ff;
+}
+a.brand-logo{
+  padding-top: 16px!important;
+  font-size: 35px!important;
+}
+#left_btn{
+  margin-left: -20px;
+  font-size: 100px!important;
+  line-height: 1!important;
+}
+select{
+  border-style: groove!important;
+  padding: 20px!important;
+}
+#city{
+  width: 100%;
+  padding-left: 30px;
+  padding-top: 38px;
+  font-size: 30px;
+}
+#all-city{
+  float: left;
+  width: 40%;
+  position: absolute;
+}
+#all-goo{
+  float: left;
+  margin-left: 42%;
+  width: 40%;
+  position: absolute;
+}
+.maker{
+  height: 25%;
+  width: 95%;
+  margin-left: 30px;
+  margin-top: 120px;
+  border: 1px solid #afafaf;
+  background: #ffffff;
+  position: relative;
+}
+#maker-add{
+  margin-top: 5px;
+  font-size: 30px;
+  width: 85%;
+  padding: 20px;
+  border: 0px;
+  outline: none;
+  float: left;
+  position: absolute;
+  
+}
+#maker-search{
+  margin-left: 85%;
+  width: 15%;
+  height: 100%;
+  background: #ffffff;
+  float: right;
+  color: #000000;
+  font-size: 30px;
+  position: absolute;
+  
+}
+#job-result{
+  width: 96%;
+  margin-left: 20px;
+  margin-top: 20px;
+  border: 1px solid #afafaf;
+  background: #ffffff;
+  
+  color: #000000;
+}
+#job-address{
+  padding-left: 2%;
+  
+}
+a.modal-trigger{
+  color: black;
+}
+div#phone{
+  float: left;
+  padding-right: 20px;
+}
+div#place{
+  float: left;
+  padding-right: 20px;
+  padding-top: 15px;
+}
+div#address{
+  padding-top: 1pt;
+}
+#wait{
+  text-align: center !important;
+}
+.bottom{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 120px;
+  background: #ffffff;
+  z-index: 30;
+}
+#nav-mobile{
+}
+#home_btn{
+  padding-left: 10%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  float: left;
+  width: 70%;
+  position: absolute;
+}
+#money_gray_btn{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 28%;
+  float: left;
+  position: absolute;
+}
+#camera_gray_btn{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 47%;
+  float: left;
+  position: absolute;
+}
+#message_gray_btn{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 65%;
+  float: left;
+  position: absolute;
+}
+#settings_gray_btn{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 83%;
+  float: left;
+  position: absolute;
+}
+#workch{
+	float:right;
+	margin-top:3%;
+	padding-right: 3%
+}
+
+#back{
+	float:left;
+	margin-top:3%;
+	padding-left: 3%
+}
+
+#hr{
+	border: 0.1px solid #afafaf !important;
+}
+
+.overflow{
+	overflow: auto;
+    height: 87%;
+}
+
+.fontwhite{
+    font-family: 나눔고딕체_ac;
+    color: white;
+    
+}
+
+#saram {
+	margin: 10px;
+	
+}
+
+input {
+        outline: none;
+   }
+

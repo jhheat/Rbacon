@@ -1,0 +1,29 @@
+
+html, body{
+
+  background-color : #ffffff;
+}
+#wb{
+	height:5%!important;
+	margin-left:10%;
+	margin-top:2%;
+	width:80%;
+	display:inline-block;
+	height:5%; 
+	background-color:white;
+	padding-top:10px; 
+    border: 1px solid black!important; 
+}
+#pt{
+	color:gray;
+	height:100%!important;
+	font-size:50px;
+}
+#ok{
+	width:80%;
+	height:5%;
+	font-size:50px;
+	background-color:#0090ff;
+	color:white;
+	margin-left:10%;
+}

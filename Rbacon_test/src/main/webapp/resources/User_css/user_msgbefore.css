@@ -1,0 +1,37 @@
+@charset "EUC-KR";@charset "UTF-8";
+html, body{
+  background-color : #F7F7F7;
+}
+#wb{
+	width:100%;
+	display:inline-block;
+	height:5%; 
+	background-color:white;
+	padding-top:10px; 
+    border-top: 1px solid black!important; 
+    border-bottom:1px solid black!important;
+}
+#rt{
+	float:right;
+	margin-right:20px;
+	display:inline-block;
+	
+}
+.toggleBG{
+	background: #CCCCCC; 
+	width: 70px; 
+	height: 30px; 
+	border: 1px solid #CCCCCC; 
+	border-radius: 15px;
+	}
+.toggleFG{
+	background: #FFFFFF; 
+	width: 30px; 
+	height: 30px; 
+	border: none; 
+	border-radius: 15px; 
+	position: relative; 
+	left: 0px;
+}
+
+

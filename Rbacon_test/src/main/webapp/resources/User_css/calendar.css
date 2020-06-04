@@ -1,0 +1,104 @@
+body{
+  background-color: #f7f7f7;
+}
+#calendar{
+  width: 840px !important;
+  margin-left: auto;
+  margin-right: auto;
+  width: 320px;
+  font-family: 'Lato', sans-serif;
+
+}
+#calendar_weekday div{
+  display:inline-block;
+  vertical-align:top;
+}
+#calendar_content, #calendar_weekday, #calendar_header{
+	width: 840px !important;
+  position: relative;
+  width: 320px;
+  overflow: hidden;
+  float: left;
+  z-index: 10;
+}
+#calendar_content, #calendar_weekday{
+	font-size: 50px; 
+}
+
+#calendar_weekday div, #calendar_content div{
+  width: 120px !important;
+  height: 120px !important;
+  overflow: hidden;
+  text-align: center;
+  background-color: #FFFFFF;
+  color: #787878 !important;
+}
+#calendar_content{
+  -webkit-border-radius: 0px 0px 12px 12px;
+  -moz-border-radius: 0px 0px 12px 12px; 
+  border-radius: 0px 0px 12px 12px;
+  background-color: #ffffff;
+}
+#calendar_content div{
+  float: left;
+  position: relative;
+  z-index: 1;
+}
+#calendar_content div:hover{
+  background-color: #F8F8F8;
+}
+#calendar_content div.blank{
+  background-color: #ffffff;
+}
+#calendar_header, #calendar_content div.today{
+  zoom: 1;
+  filter: alpha(opacity=70);
+  opacity: 0.7;
+}
+#calendar_content div.today{
+  color: #FFFFFF;
+}
+#calendar_header{
+  width: 100%;
+  height: 130px !important;
+  text-align: center;
+  background-color: #FFFFFF !important;
+  padding: 25px 0;
+  -webkit-border-radius: 12px 12px 0px 0px;
+  -moz-border-radius: 12px 12px 0px 0px; 
+  border-radius: 12px 12px 0px 0px;
+  
+}
+#calendar_header h1{
+  font-size: 54px;
+  color: #787878;
+  float:left;
+  width:70%;
+  line-height: 10%;
+  font-family: ³ª´®½ºÄù¾î_ac;
+}
+i[class^=icon-chevron]{
+  color: #787878;
+  float: left;
+  width:15%;
+  border-radius: 50%;
+  font-size: 40px;
+}
+
+h1 {
+    display: block !important ; 
+    font-size: 2.5em  ;
+    margin-block-start: 0.67em !important;
+    margin-block-end: 0.67em !important;
+    margin-inline-start: 0px !important;
+    margin-inline-end: 0px !important;
+    font-weight: bold !important;
+    font-family: ³ª´®½ºÄù¾î_ac;
+}
+
+#hrt {
+	width: 100%;
+	height: 100%;
+	font-size: 15em;
+	background-color: black;
+}

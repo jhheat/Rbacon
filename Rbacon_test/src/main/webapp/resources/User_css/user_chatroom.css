@@ -1,0 +1,101 @@
+@charset "EUC-KR";
+html, body{
+	width: 100%;
+	height: 100%;
+}
+/* 모달 부분 */
+#choice{
+	text-align : center;
+	width:100%;
+	padding:0%;
+	margin:0;
+}
+#modal1{
+	padding: 0%;
+	width: 80%;
+	height: 22%;
+}
+.modalCenter{
+	padding:0% !important;
+	top: 50% !important;
+	transform: translateY(-50%) !important;
+}
+
+#modal-footer{
+	position: fixed !important;
+	bottom: 0 !important;
+	width: 100% !important;
+	height: 20% !important;
+	background-color: #bfbfbf !important;
+	text-color: #ffffff !important;
+}
+.modal-action{
+	font-size: 30px !important;
+	color: #ffffff !important;
+}
+#reset{
+	text-align: center !important;
+	color: #ffffff;
+}
+.image{
+	width: 200px;
+    height: 200px;
+}
+#camera_chat{
+	width: 70px;
+	height: 70px;
+}
+#album{
+	width: 70px;
+	height: 70px;
+}
+/* 모달 끝 */
+div#chat.footer{
+	position: fixed;
+  bottom: 0;
+  width: 100%;
+  height:6%;
+  background-color: #0090ff;
+}
+button#btn_camera {
+	background-color: #0090ff;
+	float: left;
+	width: 75px;
+    height: 75px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0;
+    margin-top: 2%;
+    margin-left: 1%;
+}
+img#camera{
+	width: 100%;
+    height: 100%;
+    padding-left: 0px;
+    margin-left: 6px;
+    margin-top: 4px;
+	float: left;
+}
+textarea {
+	font-size: 50px!important;
+    padding-left: 10px;
+    padding-top: 9px;
+	margin-left: 26px !important;
+	margin-top: 24px !important;
+	width: 80% !important;
+    height: 61% !important;
+    border-radius: 20px;
+    background-color: white !important;
+}
+input#send {
+	height: 70px;
+    width: 66px;
+    background-color: #0090ff;
+    margin-bottom: 7%;
+    margin-left: 2%;
+}
+
+

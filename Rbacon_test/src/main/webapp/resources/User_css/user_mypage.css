@@ -1,0 +1,138 @@
+@charset "UTF-8";
+.one{
+  height: 10%;
+  background-color: #ffffff;
+}
+#logout{
+	float: right;
+	padding-right: 5%;
+}
+#job-result{
+  width: 96%;
+  height: 15%;
+  margin-left: 2%;
+  margin-top: 4%;
+  margin-bottom: 2%;
+  border: 2px solid #afafaf;
+  background: #ffffff;
+  color: #000000;
+}
+.btnn{
+	margin:2%;
+  	 width: 10%;
+   	height:100%;
+   	border: none;
+   	background-color: white;
+   	float: right;
+}
+#job-han{
+	font-size: 47px;
+}
+#job-num{
+	font-size: 47px;
+	color: red;
+}
+#job-address{
+	padding: 0px !important;
+	padding-left: 4% !important;
+	padding-top: 3% !important;
+	padding-bottom: 2% !important;
+}
+a.modal-trigger{
+	color: black;
+}
+#jobjob{
+	text-align: center;
+	width: 34%;
+	border-right: 1px solid #7f7f7f;
+	border-top: 1px solid #ffffff;
+}
+h5#red{
+	color: #ffffff !important;
+}
+div#phone{
+	float: left;
+	padding-right: 4%;
+	padding-left: 5%;
+	vertical-align: middle;
+}
+#modal1{
+	width: 80%;
+	height: 20%;
+}
+.modalCenter{
+	top: 50% !important;
+	transform: translateY(-50%) !important;
+}
+.modal-content{
+	text-align: center !important;
+	margin-top: 8%;
+}
+#cancel , #check{
+	font-size: 55px !important;
+	height: 100%;
+}
+#modal-table{
+	height: 100%;
+}
+.modal-footer{
+	position: fixed !important;
+	bottom: 0 !important;
+	width: 100% !important;
+	height: 30% !important;
+	background-color: #bfbfbf !important;
+	text-color: #ffffff !important;
+}
+.modal-action{
+	font-size: 45px !important;
+	color: #ffffff !important;
+}
+.btn{
+	border: 3px solid #afafaf;
+	color: #ffffff;
+	background-color: #bfbfbf !important;
+	width: 100%;
+}
+.btn-flat{
+	display: inline !important;
+	padding: 0 !important;
+	
+}
+.waves-effect{
+	overflow: visible !important;
+}
+.modal-action modal-close{
+	width: 50% !important;
+}
+#right_back{
+	padding-right: 3%;
+}
+img#right{
+	float: right;
+}
+#job-add{
+	width: 96%;
+	height: 15%;
+	margin-left: 2%;
+    border: 2px solid #afafaf;
+	background: #ffffff;
+	color: #000000;
+	float: left;
+}
+#job-other{
+	width: 96%;
+	margin-left: 2%;
+	margin-top: 2%;
+    border: 2px solid #afafaf;
+	background: #ffffff;
+	color: #000000;
+	float: left;
+}
+#set-sub{
+	padding-bottom: 2%;
+	font-size: 47px;
+}
+#notice{
+	float: left;
+	padding-right: 4%;
+}

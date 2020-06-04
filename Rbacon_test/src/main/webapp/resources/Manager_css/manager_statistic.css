@@ -1,0 +1,202 @@
+@charset "UTF-8";
+#job-result{
+  width: 96%;
+  margin-left: 2%;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  border: none;
+  background: #ffffff;
+  color: #000000;
+  float: left;
+}
+#job-result2{
+  width: 96%;
+  margin-left: 2%;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  border: none;
+  background: #ffffff;
+  color: #000000;
+  float: left;
+}
+#chart{
+	padding-top: 1%;
+	margin-top: 0%;
+}
+#job-address{
+	padding-left: 2%;
+	margin-bottom: 0%;
+	font-size: 58px;
+	font-weight: 500;
+}
+.progress{
+	margin-top: 0% !important;
+	margin-left: 5% !important;
+	width: 90% !important;
+	background-color: #bec2d4 !important;
+}
+.determinate{
+	background-color: #0090ff !important;
+}
+#tae{
+	border-bottom: 3px solid rgba(0,0,0,0.12);
+}
+#date{
+	width: 3.2%;
+	text-align: center;
+	border-bottom: 3px solid rgba(0,0,0,0.12);
+}
+#workch{
+	float:right;
+	margin-top:3%;
+}
+#job-num{
+	font-size: 47px;
+	padding: 3%;
+	font-weight: 700;
+}
+#job-user{
+	font-size: 45px;
+	color: #bec2d4;
+	font-weight: 500;
+}
+#job-money{
+	font-size: 47px;
+	color: #0090ff;
+	font-weight: 800;
+	float: right;
+	padding-right: 3%;
+}
+.work_text{
+	font-size:50px;
+}
+.day{
+	text-align: center !important;
+	padding-top: 1%!important;
+    font-size: 50px!important;
+	font-color: black;
+}
+#pyo{
+	height: 120px;
+}
+#choice{
+	text-align : center;
+	width:100%;
+	padding:0%;
+	margin-bottom: 10%;
+}
+#date-choice{
+	width: 38%;
+	height: 15%;
+	border: 1px solid #000000;
+	margin-left: 6%;
+	display: inline-block;
+}
+#modal1{
+}
+.modalCenter{
+	padding:0% !important;
+	top: 50% !important;
+	transform: translateY(-50%) !important;
+}
+.modal-content{ 
+	width: 100% !important;
+	height: 100%;
+	background-color: #f0f0f0;
+	padding-top: 10% !important;
+}
+.modal-action{
+	font-size: 45px !important;
+	color: #ffffff !important;
+}
+.btn{
+	border: 3px solid #afafaf;
+	color: #ffffff;
+	background-color: #bfbfbf !important;
+	width: 100%;
+}
+.btn-flat{
+	display: inline !important;
+	padding: 0 !important;
+}
+#M_checkbox{
+	width: 7%;
+	height: 7%;
+	display:inline;
+	opacity:1;
+	pointer-events: auto;
+}
+.modal-action modal-close{
+	width: 50% !important;
+}
+#cancel {
+	font-size: 55px !important;
+	float: left;
+	margin-top: -3px;
+	font-size: 55px;
+	display: inline-block;
+	color: #0090ff;
+	font-color: #0090ff;
+	height: 100%;
+}
+#check{
+	font-size: 55px !important;
+	float: right;
+	margin-top: -3px;
+	font-size: 55px;
+	display: inline-block;
+	color: #0090ff;
+	height: 100%;
+}
+#modal-table{
+	height: 100%;
+}
+#reset{
+	text-align: center !important;
+	color: #ffffff;
+}
+#modal2{
+	padding: 0%;
+	width: 80%;
+	height: 31%;
+}
+.modalCenter2{
+	padding:0% !important;
+	top: 50% !important;
+	transform: translateY(-50%) !important;
+}
+.modal-content2{ 
+	margin-top: 0%;
+	padding:0% !important;
+}
+#modal-footer{
+	position: fixed !important;
+	bottom: 0 !important;
+	width: 100% !important;
+	height: 20% !important;
+	background-color: #bfbfbf !important;
+	text-color: #ffffff !important;
+}
+.modal-action{
+	font-size: 45px !important;
+	color: #ffffff !important;
+}
+#reset{
+	text-align: center !important;
+}
+.modal-footer{
+	padding: 0px !important;
+	padding-top: 30px !important;
+	background-color: #dddddd !important;
+	height: 20% !important;
+	text-align: center !important;
+}
+.bottom-sheet{
+	height: 30%;
+}
+#start-date{
+	width: 100%;
+	height: 100%;
+	font-size: 54px;
+	text-align: center;
+}

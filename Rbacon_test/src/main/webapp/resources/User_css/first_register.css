@@ -1,0 +1,50 @@
+@charset "EUC-KR";
+html, body{
+  width: 100%;
+  height: 100%;
+  padding: 0%;
+	
+}
+.one{
+	
+}
+#wrap{
+	width: 100%;
+	height: 2000px;
+    position: fixed;
+    background-color: #E0E0E0;
+}
+.btn_cal_ch{
+	width: 82px;
+	height: 82px;
+	float: right;
+}
+#btn_div{
+	    width: 95%;
+    margin-left: 3%;
+    height: 200px;
+    margin-top: 163%;
+}
+#btn_register{
+	width: 100%;
+    height: 200px;
+    background-color: white;
+    border: none;
+}
+a{
+	text-decoration: underline;
+	font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

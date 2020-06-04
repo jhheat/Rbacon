@@ -1,0 +1,161 @@
+@charset "UTF-8";
+html, body{
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+}
+
+#tab{
+	text-align: center;
+	background: white;
+	font-size: 50px;
+}
+
+/* 친구 대화방 탭 부분 */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  height: 5%;
+}
+.tabcontent{
+	overflow: scroll;
+}
+#dropdownMenu1{
+	width: 70px;
+    height: 60px;
+    padding: unset;
+    background-color:#0090ff;
+    border: none;
+    margin-top: 35px;
+    margin-left: 20px;
+}
+
+#message_img{
+	width: 90px;
+    height: 80px;
+    padding: unset;
+    background-color:#0090ff;
+    border: none;
+}
+.drop_li{
+	font-size: 20px !important;
+	text-align: center !important;
+}
+.dropdown-menu{
+	    top: 108% !important;
+    left: 9% !important;
+	width: 400px !important;
+	border-radius: 8% !important;
+}
+/* Style the buttons that are used to open the tab content */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: 0.3s;
+  width: 33%;
+}
+button.tablinks{
+	width: 50%;
+	margin-top: 2%;
+}
+.col_s12 , .col_s13{
+	float: left;
+	width: 100%;
+	margin-top: 1%;
+}
+.col_s13{
+	margin-top: 5px;
+}
+.user_chat{
+	margin-top: 3% !important;
+}
+.user, .user_chat{
+	width: 100px;
+	float: left;
+}
+.brand_name{
+	font-size: 50px;
+    float: inherit;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.chat{
+	font-size: 45px;
+	margin-left: 140px;
+}
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: white;
+  width: 50%;
+}
+
+/* Style the tab content */
+
+
+#job-result{
+  width: 96%;
+  margin-left: 20px;
+  margin-top: 0px;
+  background: #ffffff;
+  color: #000000;
+}
+#job-address{
+	padding: 10px;
+}
+a.modal-trigger{
+	color: black;
+}
+#wait{
+	float: right;
+	margin-right: 4%;
+}
+#modal1{
+	width: 80%;
+	height: 20%;
+}
+.modalCenter{
+	top: 50% !important;
+	transform: translateY(-50%) !important;
+}
+.modal-content{
+	text-align: center !important;
+	margin-top: 8%;
+}
+.modal-footer{
+	position: fixed !important;
+	bottom: 0 !important;
+	width: 100% !important;
+	height: 30% !important;
+	background-color: #bfbfbf !important;
+	text-color: #ffffff !important;
+}
+.modal-action{
+	font-size: 30px !important;
+	color: #ffffff !important;
+}
+#reset{
+	text-align: center !important;
+	color: #ffffff;
+}
+#job-add{
+	width: 96%;
+	height: 140px;
+	margin-left: 2%;
+	border: 2px solid #0090ff;
+	background: #ffffff;
+	color: #000000;
+	float: left;
+}
+#register{
+	color: #0090ff;
+	text-align: center !important;
+	vertical-align: middle;	
+}

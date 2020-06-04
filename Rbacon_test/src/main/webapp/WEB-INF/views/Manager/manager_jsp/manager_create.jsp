@@ -26,7 +26,7 @@
     <div class="top-bar">
       <a href="#" class="brand-logo center">근무표 생성</a>
       <input id="Btn_save" type="submit" value="저장"
-       style="font-size: 45px; float: right; border: unset; background-color: #0090ff; color: white; margin-top: 36px; margin-right: 13px;">
+       style="font-size: 40px; float: right; border: unset; background-color: #0090ff; color: white; margin-top: 6%; margin-right: 13px;">
       </div>
       <ul id="nav-mobile" class="left">
         <li><a id="left_btn" class="material-icons" href="index.html">chevron_left</a></li>

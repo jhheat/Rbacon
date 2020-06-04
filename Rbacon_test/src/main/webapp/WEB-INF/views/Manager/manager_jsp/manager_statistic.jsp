@@ -38,7 +38,7 @@
       </ul>
       <div id="workch">
       <ul>
-        <li><a class="modal-trigger" href="#modal1" style="font-size:40px; margin-top:6%;">근무지 선택</a></li>
+        <li><a class="modal-trigger" href="#modal1" style="font-size:50px;">근무지 선택</a></li>
       </ul>
       </div>
     </div>
@@ -108,7 +108,7 @@
 		<li style="display : inline; font-size: 52px; padding:7%; font-weight:500;">2019.12.01 - 2019.12.16</li>
 		<li style="display : inline;"><a href="#"> <img src="<%=request.getContextPath() %>/resources/icon/right_back.png" width="40px;"height="40px;"></a></li>
  	 	<li style=" float: right; margin-right: 2%;">
- 	 	<a class="modal-trigger" href="#modal2" ><img src="<%=request.getContextPath() %>/resources/icon/money_cal.png" width="65px;"height="65px;"></a></li>	  
+ 	 	<a class="modal-trigger" href="#modal2" ><img src="<%=request.getContextPath() %>/resources/icon/money_cal.png" width="80px;"height="80px;"></a></li>	  
 	  </ul>
 	</div>
 	</td>

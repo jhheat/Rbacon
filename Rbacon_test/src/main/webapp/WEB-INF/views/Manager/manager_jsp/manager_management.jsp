@@ -133,8 +133,8 @@
 <div id="Tokyo" class="tabcontent">
      	<table class="user-list1">
      		<tr style="height:25%;">
-     			<td style="border:3px solid #e6e7eb; background-color:#f1f5f6; padding-left: 2%;"><font style="font-size:50px; font-weight:600;">입사 요청</font>
-     			<font style="float:right; font-size:40px; color:#b6b6b6;">입사 요청 확인후 올바른 버튼을 눌러주세요</font></td>
+     			<td style="border:3px solid #e6e7eb; background-color:#f1f5f6; padding-left: 2%;"><font style="font-size:54px; font-weight:600;">입사 요청</font>
+     			<font style="float:right; font-size:45px; color:#b6b6b6;">입사 요청 확인후 올바른 버튼을 눌러주세요</font></td>
      		</tr>
      		<tr style="height:36%;">
      			<td style="display:absolute; border:3px solid #e6e7eb;"><img src="<%=request.getContextPath() %>/resources/icon/user.png" width="110px;" height="110px;" style="margin-left:2%; float:left;">
@@ -157,8 +157,8 @@
   		<div class="modal-content">
   			<div id="wait">
   			<div>
-    		<font style="font-size:54px; display:inline-block; font-weight:600;">요청 거절</font></div>
-    		<p><font style="font-size:54px;">승인을 거절하시겠습니까?</font></p>
+    		<font style="font-size:54px; color:#0090ff; display:inline-block;">이디야커피 백운역점</font><font style="font-size:54px; display:inline-block;">&nbsp을(를)</font>></div>
+    		<p><font style="font-size:54px;">근무지에 추가 하시겠습니까?</font></p>
     		</div>
   		</div>
   		<div class="modal-footer">
